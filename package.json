@@ -1,0 +1,31 @@
+{
+  "name": "yogasteptwo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfajl/Tabs-created.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfajl/Tabs-created/issues"
+  },
+  "homepage": "https://github.com/dfajl/Tabs-created#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "babel-loader": "^8.2.2",
+    "babel-plugin-es6-promise": "^1.1.1",
+    "es6-promise": "^4.2.8",
+    "formdata-polyfill": "^4.0.6",
+    "nodelist-foreach-polyfill": "^1.2.0",
+    "webpack": "^5.40.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {}
+}
